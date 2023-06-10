@@ -2,6 +2,11 @@
 
 ![lofigif](https://github.com/SLN4403/SLN4403/assets/65487726/d18801d3-2359-4b51-aed8-c682893fd23a)
 
+<p align="center"> 
+  Profile Visitors <br>
+  <img src="https://profile-counter.glitch.me/SLN4403/count.svg"/>
+</p>
+
 <h3> About Me 💭 </h3>
 
 - 🔥 I’m currently learning ... frontend development + spring boot (pending) for the backend
