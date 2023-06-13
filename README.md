@@ -14,3 +14,8 @@
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... i'm a cat person <3 
 
+<!-- <p align="center">
+  <a href="https://github.com/sln4403">
+    <img src="https://komarev.com/ghpvc/?username=sln4403&color=blue&style=flat)" />
+  </a>
+</p> -->
