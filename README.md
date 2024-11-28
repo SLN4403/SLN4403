@@ -4,13 +4,6 @@
 
 <h3> About Me 💭 </h3>
 
-- 🔥 I’m currently learning ... frontend development 
+- 🔥 I’m currently: ... a Computer Science majored student at BHCC 26' 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/sln4403/) || [Instagram](https://instagram.com/sulei.nd?igshid=ZDc4ODBmNjlmNQ==)
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... i'm a cat person <3 
-
-<!-- <p align="center">
-  <a href="https://github.com/sln4403">
-    <img src="https://komarev.com/ghpvc/?username=sln4403&color=blue&style=flat)" />
-  </a>
-</p> -->
+- ⚡ Tech stack: ... MERN stack, Bubble.io
